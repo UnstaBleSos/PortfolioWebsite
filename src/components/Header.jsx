@@ -6,7 +6,7 @@ export default function Header() {
     
       <div className="flex-shrink-0 mb-6 md:mb-0 md:mr-12">
         <img 
-          src="../src/profile.jpg" 
+          src="https://github.com/UnstaBleSos/PortfolioWebsite/blob/main/src/profile.jpg?raw=true" 
           alt="Ashutosh Khanal" 
           className="w-25 h-45 md:w-45 md:h-52 rounded-full border-4 border-blue-400 shadow-lg transform hover:scale-105 transition-all"
         />
